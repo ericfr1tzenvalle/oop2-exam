@@ -74,6 +74,6 @@ Evaporadora ..> SensorTemperatura: usa
 Evaporadora ..> ControleRemoto: usa
 ArCondicionado *-- Evaporadora: é parte
 ArCondicionado *-- Condesadora: é parte
-```
 Condesadora *-- Modo: é parte
 Evaporadora -- Condesadora: notifica
+```
