@@ -4,6 +4,9 @@ Este repositório contém a resolução de **dois exercícios** focados na aplic
 
 > ⚠️ Cada exercício possui sua própria pasta `exercise` e um `README.md` detalhado (incluindo diagrama UML).
 
+> Este repositório contém apenas as resoluções da **prova de POO2**.  
+>> Para o simulado anterior, acesse o [Repositório do Simulado](https://github.com/ericfr1tzenvalle/oop2-mock-exam).
+
 ### 🇺🇸 English Introduction
 
 This repository contains the solutions for **two exercises** focused on applying **Design Patterns in Java**, developed for the **Object-Oriented Programming II exam**.
